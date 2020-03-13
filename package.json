@@ -29,9 +29,9 @@
   },
   "license": "Apache-2.0",
   "peerDependencies": {
-    "react": ">=15 <17",
     "firebase": ">=6.3.4 <8",
-    "firebaseui": ">=4 <5"
+    "firebaseui": ">=4 <5",
+    "react": ">=15 <17"
   },
   "devDependencies": {
     "@types/react": "^16.3.2",
@@ -61,6 +61,7 @@
     "eslint-plugin-promise": "^3.7.0",
     "eslint-plugin-react": "^7.8.2",
     "eslint-plugin-standard": "^3.1.0",
+    "firebaseui": "4.1.0",
     "react": "^16.3.2",
     "style-loader": "^0.21.0",
     "webpack": "^4.8.3",
